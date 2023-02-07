@@ -1,0 +1,11 @@
+C:\Users\diana\source\repos\P4.2_CastingNumeros_DL\bin\Debug\P4.2_CastingNumeros_DL.exe.config
+C:\Users\diana\source\repos\P4.2_CastingNumeros_DL\bin\Debug\P4.2_CastingNumeros_DL.exe
+C:\Users\diana\source\repos\P4.2_CastingNumeros_DL\bin\Debug\P4.2_CastingNumeros_DL.pdb
+C:\Users\diana\source\repos\P4.2_CastingNumeros_DL\obj\Debug\P4.2_CastingNumeros_DL.csproj.AssemblyReference.cache
+C:\Users\diana\source\repos\P4.2_CastingNumeros_DL\obj\Debug\P4.2_CastingNumeros_DL.csproj.SuggestedBindingRedirects.cache
+C:\Users\diana\source\repos\P4.2_CastingNumeros_DL\obj\Debug\P4._2_CastingNumeros_DL.Form1.resources
+C:\Users\diana\source\repos\P4.2_CastingNumeros_DL\obj\Debug\P4._2_CastingNumeros_DL.Properties.Resources.resources
+C:\Users\diana\source\repos\P4.2_CastingNumeros_DL\obj\Debug\P4.2_CastingNumeros_DL.csproj.GenerateResource.cache
+C:\Users\diana\source\repos\P4.2_CastingNumeros_DL\obj\Debug\P4.2_CastingNumeros_DL.csproj.CoreCompileInputs.cache
+C:\Users\diana\source\repos\P4.2_CastingNumeros_DL\obj\Debug\P4.2_CastingNumeros_DL.exe
+C:\Users\diana\source\repos\P4.2_CastingNumeros_DL\obj\Debug\P4.2_CastingNumeros_DL.pdb
